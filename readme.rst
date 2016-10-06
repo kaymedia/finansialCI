@@ -1,4 +1,6 @@
-FAQ <p>
+###################
+FAQ 
+###################
 ask : demo ?
 answ : untuk demo aplikasi di http://project1.kaymedia.net
 ask : detail login ?
