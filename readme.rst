@@ -17,6 +17,6 @@ answ : username : admin pass : kay1337
 ask : mysql nya mana gan ?
 ***************
 ***************
-answ : email saya di kurniaadiyoga@gmail.com
+answ : email saya di kurniaadiyoga1337@gmail.com
 ***************
 thanks gan :)
